@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rf-a" alt="rf-a" /></a> </p>
 
-- 🔭 I’m currently studying : **BS Data Science and Applications (IIT Madras))**
-
 - 🌱 I’m currently learning : **MERN STACK**
 
 - 💬 Recent Skills : **python, c++, nodejs**
